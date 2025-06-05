@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.36105.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio1_Introduccion", "Ejercicio1\Ejercicio1_Introduccion.csproj", "{0FFCA209-193D-481B-90E1-B94BB819DEEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio2_Indice_compartido", "Ejercicio2\Ejercicio2_Indice_compartido.csproj", "{396F3EB8-6096-4EEE-8F98-C916865BD65A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0FFCA209-193D-481B-90E1-B94BB819DEEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FFCA209-193D-481B-90E1-B94BB819DEEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FFCA209-193D-481B-90E1-B94BB819DEEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{396F3EB8-6096-4EEE-8F98-C916865BD65A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{396F3EB8-6096-4EEE-8F98-C916865BD65A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{396F3EB8-6096-4EEE-8F98-C916865BD65A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{396F3EB8-6096-4EEE-8F98-C916865BD65A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
